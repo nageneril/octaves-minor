@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <readme>
+    <pl>7fd63092585908d74c0dd58191a046afe729e97804f3ec313a47dffa045d354e</pl>
+    <en>bbffdf2a2402bc20bb8eaa700c6ff14572f0f53bbd4d2e97e933cb8f2ad6cd39</en>
+    <ru>de3b1eb491d42d7c516c31fbc95bc63a6374e223ac0a55fc32c5485a51cdecd8</ru>
+  </readme>
+  <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
+  <exercise number="1">
+    <scale>minor</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,18"/>
+      <note number="2" values="1,18"/>
+      <note number="3" values="18,1"/>
+      <note number="4" values="1,18"/>
+    </notes>
+  </exercise>
+  <exercise number="2">
+    <scale>minor</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,18"/>
+      <note number="2" values="1,18"/>
+      <note number="3" values="18,1"/>
+      <note number="4" values="1,18"/>
+    </notes>
+  </exercise>
+  <exercise number="3">
+    <scale>minor</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,18"/>
+      <note number="2" values="1,18"/>
+      <note number="3" values="18,1"/>
+      <note number="4" values="1,18"/>
+    </notes>
+  </exercise>
+  <exercise number="4">
+    <scale>minor</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,18"/>
+      <note number="2" values="1,18"/>
+      <note number="3" values="18,1"/>
+      <note number="4" values="1,18"/>
+    </notes>
+  </exercise>
+  <exercise number="5">
+    <scale>minor</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,18"/>
+      <note number="2" values="1,18"/>
+      <note number="3" values="18,1"/>
+      <note number="4" values="1,18"/>
+    </notes>
+  </exercise>
+  <exercise number="6">
+    <scale>minor</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,18"/>
+      <note number="2" values="1,18"/>
+      <note number="3" values="18,1"/>
+      <note number="4" values="1,18"/>
+    </notes>
+  </exercise>
+  <exercise number="7">
+    <scale>minor</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,18"/>
+      <note number="2" values="1,18"/>
+      <note number="3" values="18,1"/>
+      <note number="4" values="1,18"/>
+    </notes>
+  </exercise>
+  <exercise number="8">
+    <scale>minor</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,18"/>
+      <note number="2" values="1,18"/>
+      <note number="3" values="18,1"/>
+      <note number="4" values="1,18"/>
+    </notes>
+  </exercise>
+  <exercise number="9">
+    <scale>minor</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,18"/>
+      <note number="2" values="1,18"/>
+      <note number="3" values="18,1"/>
+      <note number="4" values="1,18"/>
+    </notes>
+  </exercise>
+  <exercise number="10">
+    <scale>minor</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,18"/>
+      <note number="2" values="1,18"/>
+      <note number="3" values="18,1"/>
+      <note number="4" values="1,18"/>
+    </notes>
+  </exercise>
+</level>
